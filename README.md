@@ -1,3 +1,13 @@
+# NOMFLIX? nom nom nom nom nom
+ES6 JS, REACT
+
+## Screens
+- [] Home
+- [] TV Shows
+- [] Search
+- [] Detail
+- []
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
