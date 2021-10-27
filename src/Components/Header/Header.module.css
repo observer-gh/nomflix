@@ -1,0 +1,8 @@
+/* nav class, unorderd list for header */
+.navList {
+    display: flex;
+}
+
+.navList:hover {
+    background-color: azure;
+}
